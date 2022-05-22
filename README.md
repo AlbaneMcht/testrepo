@@ -1,2 +1,2 @@
-# testrepo
+# testrepository
 Coursera - test repository 
